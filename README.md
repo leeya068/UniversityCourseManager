@@ -1,4 +1,4 @@
-### 🏫 University Course Management System
+# 🏫 University Course Management System
 
 [![Java](https://img.shields.io/badge/Java-21%2B-blue.svg)](https://www.java.com)
 
