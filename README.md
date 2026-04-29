@@ -130,6 +130,4 @@ This project is for educational purposes as part of the WIA1002 course assignmen
 - Course instructors and lab demonstrators
 - University of Malaya
 
-## ⭐ If you found this helpful, consider giving it a star!
-
-
+⭐ If you found this helpful, consider giving it a star!
