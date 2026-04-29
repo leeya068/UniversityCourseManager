@@ -1,4 +1,4 @@
-```
+
 # Task 2: Multiple Choice Answers
 
 ## Questions & Answers
