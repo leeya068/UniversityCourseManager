@@ -116,10 +116,10 @@ The Main class demonstrates:
 ```
 
 ## 📝 Assignment Tasks Completed
-✅ Task 1: Course Interface (ADT) with proper documentation
-✅ Task 2: Code analysis and multiple choice questions
-✅ Task 3: Generic CourseManager class with all operations
-✅ Task 4: Complete LabCourse implementation and testing
+- ✅ Task 1: Course Interface (ADT) with proper documentation
+- ✅ Task 2: Code analysis and multiple choice questions
+- ✅ Task 3: Generic CourseManager class with all operations
+- ✅ Task 4: Complete LabCourse implementation and testing
 
 ---
 
